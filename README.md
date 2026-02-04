@@ -7,4 +7,4 @@
 1. 使用方法
    1. 首先需要下载Tampermonkey，App Store链接🔗 https://apps.apple.com/us/app/tampermonkey/id6738342400
    2. 需要安装V2EX Polish，Github链接🔗 https://github.com/coolpace/V2EX_Polish
-   3. 然后按照V2EX Polish Patch，Github链接🔗 https://github.com/msdurex/V2EX_Polish_Patch/blob/main/v2ex-mobile-fix.user.js
+   3. 然后安装V2EX Polish Patch，Github链接🔗 https://github.com/msdurex/V2EX_Polish_Patch/blob/main/v2ex-mobile-fix.user.js
