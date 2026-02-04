@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         V2EX Polish Mobile Fix
-// @namespace    https://github.com/你的用户名/仓库名
+// @namespace    https://github.com/msdurex/V2EX_Polish_Patch
 // @version      1.0.0
 // @description  修复 V2EX Polish 在 iPhone Safari 上的排版错乱问题
 // @author       msdurex
